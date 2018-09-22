@@ -1,6 +1,9 @@
 ---
-title: "Untitled"
-output: github_document
+title: "Testing out Github Output From R with TOC "
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
 ---
 
 ```{r setup, include=FALSE}
@@ -28,3 +31,7 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+# Testing Header 1 
+
+## Testing Header 2 
