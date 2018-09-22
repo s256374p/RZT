@@ -17,4 +17,7 @@ Step 6 | It will now ask you for U/P
 Note whenever you have to make changes to your repository first you, you must add the file with a 
 commit message, and then do step 4 
 
-
+## Generating R Files for GitHub
+Follow this link 
+https://rmarkdown.rstudio.com/github_document_format.html 
+What it does it lets you make a R studio file directly for git hub 
