@@ -14,4 +14,7 @@ Step 3 | Now use the committing  - `git commit -m "Say some $hit"`
 Step 4 | Now push it to master - `git push origin master` 
 Step 6 | It will now ask you for U/P
 
+Note whenever you have to make changes to your repository first you, you must add the file with a 
+commit message, and then do step 4 
+
 
